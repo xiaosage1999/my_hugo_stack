@@ -116,7 +116,7 @@ placeholder = ""
 admin = "Admin"
 
 [comments.twikoo]
-envId = "https://blog-twikoo-silk.vercel.app/"
+envId = "https://twikoo.leiyx.top"
 region = "AWS / N. Virginia (us-east-1)"
 path = ""
 lang = "zh-cn"
