@@ -2,8 +2,9 @@
 title: Test Blog
 description: 测试各种Markdown语法
 slug: test_blog
-date: 2022-07-06
-# image: hexagon.jpg
+# date: 2023-06-06 00:00:00+0000
+date: 2023-04-06 00:00:00+0000
+image: hexagon.jpg
 categories:
     - Test Category
 tags:
