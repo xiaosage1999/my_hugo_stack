@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Lei's Blog</title><link>https://leiyx.top/post/</link><description>Recent content in Posts on Lei's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://leiyx.top/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Test Blog</title><link>https://leiyx.top/p/test_blog/</link><pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate><guid>https://leiyx.top/p/test_blog/</guid><description>&lt;p>&lt;a class="link" href="https://docs.stack.jimmycai.com/" target="_blank" rel="noopener"
+>Stack主题文档&lt;/a>&lt;/p>
+&lt;h2 id="扩展语法">扩展语法&lt;/h2>
+&lt;div class="video-wrapper">
+&lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;aid=513069941"
+scrolling="no"
+frameborder="no"
+framespacing="0"
+allowfullscreen="true"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;blockquote>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p>&lt;span class="cite">&lt;span>― &lt;/span>&lt;span>A famous person, &lt;/span>&lt;a href="https://en.wikipedia.org/wiki/Book">&lt;cite>The book they wrote&lt;/cite>&lt;/a>&lt;/span>&lt;/blockquote>
+&lt;h3 id="gallery">gallery&lt;/h3>
+&lt;p>gallery用法示例：&lt;/p>
+&lt;p>&lt;img src="https://leiyx.top/p/test_blog/hexagon.jpg"
+width="1920"
+height="500"
+srcset="https://leiyx.top/p/test_blog/hexagon_hu67a1192b3767e3450a07aa0ee5dbb883_174009_480x0_resize_q75_box.jpg 480w, https://leiyx.top/p/test_blog/hexagon_hu67a1192b3767e3450a07aa0ee5dbb883_174009_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="hexagon"
+class="gallery-image"
+data-flex-grow="384"
+data-flex-basis="921px"
+> &lt;img src="https://leiyx.top/p/test_blog/sphere.jpg"
+width="1920"
+height="500"
+srcset="https://leiyx.top/p/test_blog/sphere_hu9b44b7acd5c1b2055d65a51275ea79da_49028_480x0_resize_q75_box.jpg 480w, https://leiyx.top/p/test_blog/sphere_hu9b44b7acd5c1b2055d65a51275ea79da_49028_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="sphere"
+class="gallery-image"
+data-flex-grow="384"
+data-flex-basis="921px"
+>&lt;/p>
+&lt;p>&lt;img src="https://leiyx.top/p/test_blog/triangle.jpg"
+width="1920"
+height="500"
+srcset="https://leiyx.top/p/test_blog/triangle_hu2fcad55d22f6ddb2be4a97e99eb35e35_136549_480x0_resize_q75_box.jpg 480w, https://leiyx.top/p/test_blog/triangle_hu2fcad55d22f6ddb2be4a97e99eb35e35_136549_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="triangle"
+class="gallery-image"
+data-flex-grow="384"
+data-flex-basis="921px"
+>&lt;/p>
+&lt;h2 id="资源">资源&lt;/h2>
+&lt;p>获取网站icon的方法：&lt;/p>
+&lt;ol>
+&lt;li>直接在网址后面加/favicon.ico&lt;/li>
+&lt;li>检查网页源代码，一般在header标签里面&lt;/li>
+&lt;li>利用icon下载网站，比如favicon grabber、The Favicon Finder&lt;/li>
+&lt;/ol>
+&lt;p>&lt;a class="link" href="https://zhuanlan.zhihu.com/p/453179239" target="_blank" rel="noopener"
+>文章配图网站&lt;/a>&lt;/p>
+&lt;p>矢量图标库：https://www.iconfont.cn&lt;/p>
+&lt;h2 id="markdown测试">Markdown测试&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-cpp" data-lang="cpp">&lt;span class="line">&lt;span class="cl">&lt;span class="kt">int&lt;/span> &lt;span class="nf">main&lt;/span>&lt;span class="p">()&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="kt">int&lt;/span> &lt;span class="n">x&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="mi">10&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">x&lt;/span> &lt;span class="o">+=&lt;/span> &lt;span class="mi">4&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>$\epsilon = 1$
+$$
+\Delta = a + b + c
+$$&lt;/p>
+&lt;hr>
+&lt;ol>
+&lt;li>有序列表1
+&lt;ol>
+&lt;li>有序列表1.1&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>有序列表2&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>无序列表
+&lt;ul>
+&lt;li>无序列表&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>无序列表&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>quote&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;code>inline code&lt;/code>&lt;/p>
+&lt;p>english words、中文&lt;/p>
+&lt;p>链接示例:&lt;a class="link" href="https://github.com/xiaosage1999/my_hugo_stack" target="_blank" rel="noopener"
+>this is a ref&lt;/a>、&lt;a class="link" href="leiyx.top" >this is a ref&lt;/a>&lt;/p>
+&lt;p>&lt;strong>bold&lt;/strong>,对的，这是粗体。只要不在中间打一个空行，就认为这是一个段落&lt;/p>
+&lt;p>完整图片示例：
+&lt;img src="https://lei-typora-image.oss-cn-chengdu.aliyuncs.com/20230719152432.png"
+loading="lazy"
+alt="leveldb-key"
+>&lt;/p>
+&lt;p>&lt;img src="https://lei-typora-image.oss-cn-chengdu.aliyuncs.com/bazel%E6%A0%87%E7%AD%BE.png"
+loading="lazy"
+alt="bazel-标签名"
+>&lt;/p>
+&lt;h2 id="改进">改进&lt;/h2>
+&lt;p>我的twikoo采用云函数部署方式，部署在vercel上。deploy后显示如下内容表示twikoo部署成功。&lt;/p>
+&lt;p>&lt;img src="https://leiyx.top/p/test_blog/2.png"
+width="906"
+height="582"
+srcset="https://leiyx.top/p/test_blog/2_huc4b74b0b38867f16f84d21b16dd70a27_54470_480x0_resize_box_3.png 480w, https://leiyx.top/p/test_blog/2_huc4b74b0b38867f16f84d21b16dd70a27_54470_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="2"
+class="gallery-image"
+data-flex-grow="155"
+data-flex-basis="373px"
+>&lt;/p>
+&lt;p>但是我发现博客中的twikoo评论在不科学上网时，加载速度极其缓慢。此时博客仓库中配置项为：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-toml" data-lang="toml">&lt;span class="line">&lt;span class="cl">&lt;span class="p">[&lt;/span>&lt;span class="nx">comments&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">twikoo&lt;/span>&lt;span class="p">]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nx">envId&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s2">&amp;#34;blog-twikoo-five.vercel.app&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nx">region&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s2">&amp;#34;AWS / N. Virginia (us-east-1)&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nx">path&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s2">&amp;#34;&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nx">lang&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s2">&amp;#34;zh-cn&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>在vercel项目中添加自己的域名&lt;/p>
+&lt;p>&lt;img src="https://leiyx.top/p/test_blog/1.png"
+width="1862"
+height="738"
+srcset="https://leiyx.top/p/test_blog/1_hu56bc901d6dca4495051b88579407a1c5_116878_480x0_resize_box_3.png 480w, https://leiyx.top/p/test_blog/1_hu56bc901d6dca4495051b88579407a1c5_116878_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="截屏2023-08-17 09.04.13"
+class="gallery-image"
+data-flex-grow="252"
+data-flex-basis="605px"
+>&lt;/p>
+&lt;p>重新设置envid后。再访问博客，twikoo评论加载速度就很快了。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-toml" data-lang="toml">&lt;span class="line">&lt;span class="cl">&lt;span class="p">[&lt;/span>&lt;span class="nx">comments&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">twikoo&lt;/span>&lt;span class="p">]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nx">envId&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s2">&amp;#34;https://twikoo.leiyx.top&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nx">region&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s2">&amp;#34;AWS / N. Virginia (us-east-1)&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nx">path&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s2">&amp;#34;&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nx">lang&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s2">&amp;#34;zh-cn&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>在不科学上网的情况下，两个域名的DNS查询对比：&lt;/p>
+&lt;p>blog-twikoo-five.vercel.app：&lt;/p>
+&lt;p>&lt;img src="https://leiyx.top/p/test_blog/3.png"
+width="1096"
+height="930"
+srcset="https://leiyx.top/p/test_blog/3_hu1f13f936b9c0eeefe49444598f70e79c_189044_480x0_resize_box_3.png 480w, https://leiyx.top/p/test_blog/3_hu1f13f936b9c0eeefe49444598f70e79c_189044_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="117"
+data-flex-basis="282px"
+>&lt;/p>
+&lt;p>&lt;a class="link" href="https://twikoo.leiyx.top" target="_blank" rel="noopener"
+>https://twikoo.leiyx.top&lt;/a>：&lt;/p>
+&lt;p>&lt;img src="https://leiyx.top/p/test_blog/4.png"
+width="1066"
+height="920"
+srcset="https://leiyx.top/p/test_blog/4_hud2bb3e33d4cd623837d65221dc694ee7_180236_480x0_resize_box_3.png 480w, https://leiyx.top/p/test_blog/4_hud2bb3e33d4cd623837d65221dc694ee7_180236_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="115"
+data-flex-basis="278px"
+>&lt;/p></description></item></channel></rss>
